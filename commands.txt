@@ -17,3 +17,14 @@ Git init = initialized a folder
 
 git config  user.name "<username>"
 git config user.email "<email>"
+
+   
+
+Git add .
+	>adds all modified files in your current directory to the staging area
+Git add "filename"
+	>adds specific file to the staging area
+Git commit -m "message"
+	>save the changes that weve made to the files in the staging area to the repository. The message describes what changes were mde in this commit.
+Git status
+	> displays the current status of your file/folder
