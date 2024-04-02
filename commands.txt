@@ -1,0 +1,19 @@
+pwd  = print working directory
+cd   = change directory
+     = allows you to move throughout your computer
+mkdir= make directory
+       creates a new folder in the current directory
+ls   = display/list the content of the current directory
+rm  (filename) = deleting/removing a file
+touch(filename) = creating a new file in the current directory
+
+Repository = like a folder/container that stores files/folders related to a project. It keeps track of the changemade over time.
+
+2 types of Repository
+Local Repository = version of repository that is stored on your computer
+Remote Repository = Version of repository that is store on a server on cloud-based platform(Github)
+
+Git init = initialized a folder
+
+git config  user.name "<username>"
+git config user.email "<email>"
